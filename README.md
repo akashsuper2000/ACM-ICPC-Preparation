@@ -23,7 +23,7 @@ In the program there is only direction to resources, we did not add much content
   2. Get the logic and try to code it without looking other code
   3. When you are stuck(you really should try first) or when you are done, look at the source code, and compare it with yours so that you can see what would be the best approach for that algorithm. You may not like others, or you may find some of them useful.
   4. After you feel comforatable with the code, try to solve the questions.
-  5. When you are done with solving or are stuck(again ...) check other solutions and try to understand your mistake or to see if a better aproach exists.
+  5. When you are done with solving check other solutions and try to understand your mistake or to see if a better aproach exists.
 
 ## Resources
 
@@ -37,7 +37,6 @@ In this course we will use some tools for the questions. As I mentioned above al
   - [Lightoj](http://www.lightoj.com)
   - [ACM-Timus](http://acm.timus.ru)
 
-I gave these tools name because you may not be able to submit your solution or display the question for some websites. It would be better if you just sign up. Although it is not neccesary...
 
 ## Contribution
 
@@ -56,6 +55,7 @@ Here are the topics we included in this curriculum.
   - Linked List
   - Trees
   - Heaps
+  - Graphs
   - Advanced Trees 
     - Tries
     - Segment trees
@@ -74,7 +74,11 @@ Here are the topics we included in this curriculum.
     - Long arithmetic (Multi, Add)
     - Efficient Prime Factorization
 
-  - Combinatorics(Probability-Combinations-Permutations-Matrix..)
+  - Combinatorics
+    - Probability
+    -Combinations
+    -Permutations
+    -Matrix manipulations
 
   - Computational geometry
     - Primitive Operations
@@ -128,6 +132,7 @@ Here are the topics we included in this curriculum.
 
   - **Optional Advanced Algorithms**
     - AVL Trees
+    - 2,4 Trees
     - Graph Coloring
     - Mo's Algorithm
     - Palindromic Tree
