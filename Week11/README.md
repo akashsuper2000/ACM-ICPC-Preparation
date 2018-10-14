@@ -9,7 +9,7 @@
 - [Geometric Algorithms Slayt](https://www.cs.princeton.edu/~rs/AlgsDS07/16Geometric.pdf)
 - [GeeksforGeeks - Polygon Inside](http://www.geeksforgeeks.org/how-to-check-if-a-given-point-lies-inside-a-polygon/)  
 - [GeeksforGeeks - Line Intersect](http://www.geeksforgeeks.org/check-if-two-given-line-segments-intersect/)
-- [Small Video](https://www.youtube.com/watch?v=R08OY6yDNy0) (_About 8 min_)  
+- [Small Video](https://www.youtube.com/watch?v=R08OY6yDNy0) (_Video Duration: About 8 min_)  
 - [GeeksforGeeks](http://www.geeksforgeeks.org/check-if-two-given-line-segments-intersect/)
 
 
