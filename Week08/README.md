@@ -1,4 +1,4 @@
 # Week 8
 
 
-## Questions from previous topics
+## Questions related to topics from previous weeks
