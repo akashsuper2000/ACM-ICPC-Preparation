@@ -36,6 +36,9 @@ In this course we will use some tools for the questions. As I mentioned above al
   - [Codeforces](http://codeforces.com)
   - [Lightoj](http://www.lightoj.com)
   - [ACM-Timus](http://acm.timus.ru)
+  - [Codechef](http://codechef.com)
+  - [GeeksForGeeks](http://geeksforgeeks.com)
+  - [TutorialsPoint](http://tutorialspoint.com)
 
 
 ## Contribution
