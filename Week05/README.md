@@ -9,6 +9,13 @@
 - [GeeksforGeeks - Stack](https://www.geeksforgeeks.org/stack-data-structure-introduction-program/)
 - [HackerRank - Video](https://www.youtube.com/watch?v=wjI1WNcIntg)
 
+#### Questions
+- [Redundant Brackets](https://careercup.com/question?id=5769760746766336)
+	- [Java Solution](https://github.com/rajat123456/Stacks-And-Queues/blob/master/Redundant%20Brackets%20Teaser.java)
+- [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/description/)
+- [Stock Span Problem](https://www.geeksforgeeks.org/the-stock-span-problem/)
+
+
 ## Breadth First Search
 
 #### [Tutorial]()
@@ -18,6 +25,7 @@
 - [KhanAcademy](https://www.khanacademy.org/computing/computer-science/algorithms/breadth-first-search/a/the-breadth-first-search-algorithm)
 - [GeeksforGeeks](https://www.geeksforgeeks.org/breadth-first-traversal-for-a-graph/)
 - [HackerEarth](https://www.hackerearth.com/practice/algorithms/graphs/breadth-first-search/tutorial/)
+- [Topcoder](https://www.topcoder.com/community/competitive-programming/tutorials/introduction-to-graphs-and-their-data-structures-section-2/#breadth)
  
 #### Source Codes
 - Bedir 
@@ -43,6 +51,7 @@
 - [Youtube - Joe James](https://www.youtube.com/watch?v=tlPuVe5Otio)
 - [GeeksForGeeks](http://www.geeksforgeeks.org/depth-first-traversal-for-a-graph/)
 - [VisualAlgo](http://visualgo.net/dfsbfs)
+-[Topcoder](https://www.topcoder.com/community/competitive-programming/tutorials/introduction-to-graphs-and-their-data-structures-section-2/#depth)
  
 #### Source Codes
 - Bedir - [C++](https://github.com/BedirT/AlgorithmsL/blob/master/Algorithms/Graph/dfs.cpp)
